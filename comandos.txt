@@ -3,7 +3,7 @@ git status - verificar o controle de versao se o repositorio esta atualizado
 commits - versoes do codigo
 git add - adiciona o arquivo ao controle de versao
 git add . - adiciona todos os arquivos pendentes ao controle de versao
-git commit -m `nome da versao` - cria a versao do codigo
+git commit -m `nome da versao entre aspas duplas` - cria a versao do codigo
 git push - envia as atualizaoes para o servidor na nuvem
 git remote add origin `link` - define para onde o codigo sera enviado
 branch - pasta onde o arquivo e armazenado no github
