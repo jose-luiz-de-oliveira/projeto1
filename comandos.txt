@@ -12,3 +12,4 @@ git reset --hard `id da versao` - volta a versao anterior do codigo
 git branch - mostra ao usuario todas brenches disponiveis ou cria uma nova branch ao adicionar o nome
 git checkout - muda qual branch sera modificada caso haja necessidade 
 git pull - tras as atualizacoes para a maquina
+git branch `nome` - cria uma nova branch
